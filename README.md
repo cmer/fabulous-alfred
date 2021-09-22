@@ -24,3 +24,5 @@ List of awesome Alfred workflows I use
 [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) - Fast snippets search
 
 [Convert](https://github.com/deanishe/alfred-convert) - Units conversion
+
+[GitHub](https://github.com/gharlan/alfred-github-workflow) - Shortcuts to pretty much anything in Github
